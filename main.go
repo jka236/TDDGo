@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	HelloWorld "github.com/jka236/TDDGo/hello_world"
+	HelloWorld "github.com/jka236/TDDGo/hello"
 )
 
 func main() {

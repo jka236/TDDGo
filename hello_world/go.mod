@@ -1,3 +1,3 @@
-module github.com/jka236/TDDGo/hello_world
+module github.com/jka236/TDDGo/hello
 
 go 1.19
